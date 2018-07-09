@@ -1,4 +1,4 @@
-Carrito de compras en JSP
+Carrito de compras en JSP -- RUQYAY
 
 El proyecto consiste realizar el análisis e implementación de un sistema de información web usando HTML5, CSS, JavaScript, PHP o JSP y 
 AJAX,tipo carrito compras que se conecta a una base de datos para efectivizar ventas a clientes.
